@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, soy Andrey Palencia! 👋</h1>
 
-🥝 Soy aprendiz del **SENA** en etapa práctica, actualmente en proceso de formación como desarrollador web. Estoy en camino de fortalecer mis habilidades técnicas y profesionales dentro del mundo del desarrollo de software.
+🥝 Tecnólogo en Análisis y Desarrollo de Software (SENA – CDITI), en proceso de certificación, con enfoque en desarrollo web y backend. Me encuentro fortaleciendo mis habilidades técnicas y profesionales dentro del desarrollo de software.
 
 ## 🚀 Sobre mí
 
