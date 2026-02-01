@@ -38,5 +38,5 @@
 ## 🌐 Contacto
 
 - 📬 Correo: [andreypalenciaramirez@outlook.com](mailto:andreypalenciaramirez@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/johan-andrey-palencia](https://www.linkedin.com/in/johan-andrey-palencia-5a5349246)
+- 💼 LinkedIn: [linkedin.com/in/AndreyPalencia](https://www.linkedin.com/in/johan-andrey-palencia-5a5349246)
 <!-- 🌍 Portafolio: [andreypalencia](https://andreypalencia.com) !-- si tienes uno -->
