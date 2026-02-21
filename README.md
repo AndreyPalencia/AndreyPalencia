@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, soy Andrey Palencia! 👋</h1>
 
-🥝 Tecnólogo en Análisis y Desarrollo de Software (SENA – CDITI), en proceso de certificación, con enfoque en desarrollo web y backend. Me encuentro fortaleciendo mis habilidades técnicas y profesionales dentro del desarrollo de software.
+🥝 Tecnólogo en Análisis y Desarrollo de Software (SENA – CDITI), con enfoque en desarrollo web y backend. Me encuentro fortaleciendo mis habilidades técnicas y profesionales dentro del desarrollo de software.
 
 ## 🚀 Sobre mí
 
