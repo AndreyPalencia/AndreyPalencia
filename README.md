@@ -1,18 +1,16 @@
-<h1 align="center">¡Hola, soy Andrey Palencia! 👋</h1>
+<h1 align="center">Andrey Palencia 🥝</h1>
+<h3 align="center">Desarrollador Fullstack · Node.js · React · MySQL</h3>
+<p align="center">Abierto a trabajo remoto · Disponible inmediatamente</p>
 
-🥝 Tecnólogo en Análisis y Desarrollo de Software (SENA – CDITI), con enfoque en desarrollo web y backend. Me encuentro fortaleciendo mis habilidades técnicas y profesionales dentro del desarrollo de software.
+---
 
-## 🚀 Sobre mí
+Tecnólogo en Análisis y Desarrollo de Software (SENA).
 
-- 💻 Tengo experiencia en tecnologías frontend y backend, enfocándome en el desarrollo fullstack.
-- 🔧 Trabajo principalmente con **JavaScript**, **React** y **Node.js**.
-- 🎯 Me interesa construir aplicaciones funcionales, escalables y con una buena experiencia de usuario.
-- 🌱 Actualmente estoy profundizando en arquitectura de software, buenas prácticas y estructuras de código reutilizable.
-- 🧩 Disfruto resolver problemas complejos aplicando lógica clara y diseño ordenado.
-- 📦 Mi objetivo es crear herramientas útiles, organizadas y fáciles de mantener.
-
-
-## 🛠️ Tecnologías y herramientas
+### 🛠️ Stack principal
+- **Backend:** Node.js, Express, Python (en progreso)
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Bases de datos:** MySQL, SQL
+- **Herramientas:** Git, GitHub, REST
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
@@ -23,6 +21,29 @@
 
 ---
 
+### 💼 Experiencia
+**Soporte Técnico de Aplicativos** · 2025
+- Resolución de incidencias técnicas y funcionales de usuarios
+- Documentación de procesos y manuales de aplicativos
+- Gestión de tickets y seguimiento de casos
+
+---
+
+### 🎯 Proyecto destacado
+**Sistema de Seguimiento ADSO** — aplicación fullstack para gestión de fichas,
+aprendices y bitácoras institucionales. Desarrollado con Node.js, Express,
+React y MySQL. Incluye autenticación de usuarios y panel administrativo.
+→ [Ver repositorio](https://github.com/AndreyPalencia/proyecto_sistema_seguimiento_adso)
+
+<!--
+---
+
+### 🚀 Actualmente
+- Aprendiendo Python para ciencia de datos e IA
+- Preparando ingreso a Ingeniería de Sistemas / Ciencias de la Computación
+
+-->
+---
 ## 📈 Estadísticas de GitHub
 
 <p align="left">
